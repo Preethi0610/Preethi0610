@@ -1,4 +1,4 @@
-# Hi, I'm Preethi Amasa 👋
+# Hi, I'm Preethi 👋
 
 Welcome to my GitHub profile! I am a **graduate student** at **South Dakota State University** in Brookings, South Dakota, currently pursuing my **Master’s in Computer and Information Sciences** with a focus on **Data Analytics**. 
 
