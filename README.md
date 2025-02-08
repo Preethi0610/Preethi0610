@@ -49,7 +49,7 @@ I’ve developed a wide range of skills in the following areas:
 - **Programming**: Python (NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras, PyTorch), Java, R, JavaScript.
 - **Databases**: PostgreSQL, SQL, Azure Data Studio, PrismaClient.
 - **Tools**: Postman, VS Code, Power BI, Excel.
-- **Web Development**: Next.js, FastAPI, HTML, CSS, Bootstrap.
+- **Web Development**: Next.js, FastAPI, HTML, CSS, Bootstrap, JavaScript.
 - **Soft Skills**: Attention to detail, Problem-solving, Teamwork, Accuracy.
 
 ## Let's Connect:
