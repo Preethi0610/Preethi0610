@@ -10,7 +10,7 @@ Here are some things you might want to know:
 - Currently studying **Computer and Information Sciences** at **South Dakota State University**.
 - Currently Working as a Graduate Research Assistant and working on a project titled as **"Fast and Sustainable video anamoly Dtection with Continual learning"** 
 - Worked as a **Developer** at **South Dakota State University – Enterprise Applications**.  
-- Experienced in programming with **Python**, **C#**, **Java**, **R**, **HTML**, **ASP.NET**, **.NET** and **JavaScript**.   
+- Experienced in programming with **Python**, **C#**, **Java**, **R**, **HTML**, **ASP.NET** and **JavaScript**.   
 - Outside of tech, I enjoy **reading books** and exploring new ideas.
 
 # Tech Stack:
