@@ -1,6 +1,6 @@
 # Hi, I'm Preethi 👋
 
-Welcome to my GitHub profile! I am a **Graduate Research Student** at **South Dakota State University** in Brookings, South Dakota, currently pursuing my **Master’s in Computer and Information Sciences** with a focus on **Machine Learning and AI**. 
+Welcome to my GitHub profile! I am a **recent graduate** of **South Dakota State University** in Brookings, South Dakota, where I completed my **Master's in Computer and Information Sciences** with a focus on **Machine Learning and AI**. I'm currently **open to new opportunities** in software engineering, machine learning, and AI.
 
 ## About Me
 I completed my undergraduate degree in **Artificial Intelligence (AI)** and **Data Science (DS)**, which is where my interest in data driven problem solving really started. During my studies, I spent a lot of time working with data, building machine learning models, and understanding how AI can be used in real world systems.
@@ -9,10 +9,11 @@ At the same time, I gradually developed a strong interest in **software engineer
 
 Here are some things you might want to know:
 
-- Currently studying **Computer and Information Sciences** at **South Dakota State University**.
-- Currently Working as a Graduate Research Assistant and working on my project titled as **"Fast and Sustainable video anamoly Dtection with Continual learning"** 
-- Worked as a **Software Developer** at **South Dakota State University, Enterprise Applications**.  
-- Experienced in programming with **Python**, **C#**, **Java**, **R**, **HTML**, **ASP.NET** and **JavaScript**.   
+- Recently completed my **Master's in Computer and Information Sciences** at **South Dakota State University**.
+- Worked as a **Graduate Research Assistant** on a project titled **"Fast and Sustainable Video Anomaly Detection with Continual Learning"**, focused on building efficient models that can keep learning over time.
+- Worked as a **Software Developer** at **South Dakota State University, Enterprise Applications**.
+- Experienced in programming with **Python**, **C#**, **Java**, **R**, **HTML**, **ASP.NET**, and **JavaScript**.
+- Currently **open to full-time roles** in software engineering, machine learning, and AI.
 - Outside of tech, I enjoy **reading books** and exploring new ideas.
 
 # Tech Stack:
